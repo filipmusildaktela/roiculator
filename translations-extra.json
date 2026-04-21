@@ -304,7 +304,7 @@
       "aiOnly": "AI automatizacija",
       "bothCombined": "Kombinovano"
     },
-        "leadModal": {
+    "leadModal": {
       "title": "Preuzmite personalizovani izveštaj",
       "subtitle": "Unesite svoje podatke da biste videli rezultate uštede.",
       "firstName": "Ime",
@@ -464,7 +464,7 @@
       "aiOnly": "Automatizare AI",
       "bothCombined": "Combinat"
     },
-       "leadModal": {
+    "leadModal": {
       "title": "Obțineți raportul personalizat",
       "subtitle": "Introduceți datele pentru a vizualiza rezultatele economiilor.",
       "firstName": "Prenume",
@@ -481,7 +481,7 @@
   },
   "sk": {
     "header": {
-      "title": "Daktela ROI-culator",
+      "title": "Daktela ROI kalkulačka",
       "subtitle": "Zistite, koľko môžete ušetriť integráciou komunikačných kanálov a automatizáciou pomocou AI"
     },
     "form": {
@@ -624,7 +624,7 @@
       "aiOnly": "AI automatizácia",
       "bothCombined": "Kombinované"
     },
-        "leadModal": {
+    "leadModal": {
       "title": "Získajte svoj report",
       "subtitle": "Vyplňte prosím svoje údaje pre zobrazenie výsledkov úspor.",
       "firstName": "Meno",
@@ -784,7 +784,7 @@
       "aiOnly": "AI-automatizálás",
       "bothCombined": "Kombinált"
     },
-        "leadModal": {
+    "leadModal": {
       "title": "Kérje személyre szabott jelentését",
       "subtitle": "Adja meg adatait a megtakarítási eredmények megtekintéséhez.",
       "firstName": "Keresztnév",
@@ -799,4 +799,4 @@
       }
     }
   }
-} 
+}
