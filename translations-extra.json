@@ -144,6 +144,20 @@
       "aiOnly": "Automatyzacja AI",
       "bothCombined": "Kombinowane"
     }
+    "leadModal": {
+      "title": "Otrzymaj spersonalizowany raport",
+      "subtitle": "Wprowadź swoje dane, aby zobaczyć wyniki oszczędności.",
+      "firstName": "Imię",
+      "lastName": "Nazwisko",
+      "company": "Firma",
+      "email": "Służbowy e-mail",
+      "submit": "Pokaż moje wyniki",
+      "sending": "Wysyłanie...",
+      "validation": {
+        "required": "Proszę wypełnić wszystkie pola.",
+        "email": "Proszę podać prawidłowy adres e-mail."
+      }
+    }
   },
   "sr": {
     "header": {
@@ -289,6 +303,20 @@
       "integrationOnly": "Integracija\nkanala",
       "aiOnly": "AI automatizacija",
       "bothCombined": "Kombinovano"
+    }
+        "leadModal": {
+      "title": "Preuzmite personalizovani izveštaj",
+      "subtitle": "Unesite svoje podatke da biste videli rezultate uštede.",
+      "firstName": "Ime",
+      "lastName": "Prezime",
+      "company": "Kompanija",
+      "email": "Poslovni e-mail",
+      "submit": "Prikaži rezultate",
+      "sending": "Slanje...",
+      "validation": {
+        "required": "Molimo popunite sva polja.",
+        "email": "Unesite važeću e-mail adresu."
+      }
     }
   },
   "ro": {
@@ -436,6 +464,20 @@
       "aiOnly": "Automatizare AI",
       "bothCombined": "Combinat"
     }
+       "leadModal": {
+      "title": "Obțineți raportul personalizat",
+      "subtitle": "Introduceți datele pentru a vizualiza rezultatele economiilor.",
+      "firstName": "Prenume",
+      "lastName": "Nume",
+      "company": "Companie",
+      "email": "E-mail de serviciu",
+      "submit": "Afișează rezultatele",
+      "sending": "Se trimite...",
+      "validation": {
+        "required": "Vă rugăm să completați toate câmpurile.",
+        "email": "Vă rugăm să introduceți o adresă de e-mail validă."
+      }
+    }
   },
   "sk": {
     "header": {
@@ -582,6 +624,20 @@
       "aiOnly": "AI automatizácia",
       "bothCombined": "Kombinované"
     }
+        "leadModal": {
+      "title": "Získajte svoj report",
+      "subtitle": "Vyplňte prosím svoje údaje pre zobrazenie výsledkov úspor.",
+      "firstName": "Meno",
+      "lastName": "Priezvisko",
+      "company": "Spoločnosť",
+      "email": "Pracovný e-mail",
+      "submit": "Zobraziť výsledky",
+      "sending": "Odosielanie...",
+      "validation": {
+        "required": "Prosím, vyplňte všetky polia.",
+        "email": "Zadajte prosím platnú e-mailovú adresu."
+      }
+    }
   },
   "hu": {
     "header": {
@@ -727,6 +783,20 @@
       "integrationOnly": "Csatornák\nintegrációja",
       "aiOnly": "AI-automatizálás",
       "bothCombined": "Kombinált"
+    }
+        "leadModal": {
+      "title": "Kérje személyre szabott jelentését",
+      "subtitle": "Adja meg adatait a megtakarítási eredmények megtekintéséhez.",
+      "firstName": "Keresztnév",
+      "lastName": "Vezetéknév",
+      "company": "Cég",
+      "email": "Munkahelyi e-mail",
+      "submit": "Eredmények megjelenítése",
+      "sending": "Küldés...",
+      "validation": {
+        "required": "Kérjük, töltse ki az összes mezőt.",
+        "email": "Kérjük, adjon meg érvényes e-mail címet."
+      }
     }
   }
 }
