@@ -157,7 +157,7 @@ const currencyConfig = {
 let savingsChart = null;
 
 // Make.com webhook URL - nahraď tímto placeholderem skutečnou webhook URL z Make.com
-const MAKE_WEBHOOK_URL = 'https://hook.eu2.make.com/YOUR_WEBHOOK_ID_HERE';
+const MAKE_WEBHOOK_URL = 'https://hook.eu2.make.com/han25ef0tvgwusksg48jjx8tcfpk4jfk';
 let _pendingCalcFormData = null;
 
 // Dynamically load additional languages from GitHub
