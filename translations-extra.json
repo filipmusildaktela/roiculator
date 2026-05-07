@@ -1,30 +1,34 @@
 {
   "en": {
     "caseStudies": {
-      "ecommerce": { "company": "Košík", "url": "https://daktela.com/customer-stories-with-quotes/kosik-cz" },
-      "logistics": { "company": "DPD", "url": "https://daktela.com/customer-stories-with-quotes/dpd-slovakia" },
-      "finance": null,
-      "manufacturing": null,
-      "travel": null,
-      "telecom": { "company": "Notino", "url": "https://daktela.com/customer-stories-with-quotes/notino" },
-      "automotive": { "company": "Gafa Auto", "url": "https://daktela.com/customer-stories-with-quotes/gafa-auto" },
-      "it": { "company": "Seznam", "url": "https://daktela.com/customer-stories-with-quotes/seznam-cz" },
+      "ecommerce": { "company": "Košík.cz", "url": "https://www.daktela.com/en/customer-stories/kosik-cz" },
+      "logistics": { "company": "DPD Slovakia", "url": "https://www.daktela.com/en/customer-stories/dpd-slovakia" },
+      "finance": { "company": "Generali Insurance", "url": "https://www.daktela.com/en/customer-stories/generali-insurance" },
+      "manufacturing": { "company": "DEK", "url": "https://www.daktela.com/en/customer-stories/dek" },
+      "travel": { "company": "Roxy Travel", "url": "https://www.daktela.com/en/customer-stories/roxy-travel" },
+      "telecom": { "company": "Orange", "url": "https://www.daktela.com/en/customer-stories/orange" },
+      "automotive": { "company": "Gafa Auto", "url": "https://www.daktela.com/en/customer-stories/gafa-auto" },
+      "it": { "company": "PosAm", "url": "https://www.daktela.com/en/customer-stories/posam" },
       "energy": null,
-      "healthcare": { "company": "Nemocnice Bory", "url": "https://daktela.com/customer-stories-with-quotes/nemocnice-bory" },
-      "other": { "company": "Ticketportal", "url": "https://daktela.com/customer-stories-with-quotes/ticketportal" }
+      "healthcare": { "company": "eMed Group", "url": "https://www.daktela.com/en/customer-stories/emed-group" },
+      "other": { "company": "People in Need", "url": "https://www.daktela.com/en/customer-stories/people-in-need" }
     },
     "caseStudyText": { "prefix": "See how", "suffix": "uses Daktela!" }
   },
   "cs": {
     "_NOTE_CS": "CS case studies jsou aktuálně inline ve webflow-footer.html. Můžeš je nechat tam, nebo přesunout sem (smart merge je správně skombinuje). Pokud necháš inline, tento blok pro 'cs' v souboru vynech.",
     "caseStudies": {
-      "ecommerce": { "company": "Košík", "url": "https://daktela.com/cs/customer-stories-with-quotes/kosik-cz" },
-      "logistics": { "company": "DPD", "url": "https://daktela.com/cs/customer-stories-with-quotes/dpd-slovakia" },
-      "telecom": { "company": "Notino", "url": "https://daktela.com/cs/customer-stories-with-quotes/notino" },
-      "automotive": { "company": "Gafa Auto", "url": "https://daktela.com/cs/customer-stories-with-quotes/gafa-auto" },
-      "it": { "company": "Seznam", "url": "https://daktela.com/cs/customer-stories-with-quotes/seznam-cz" },
-      "healthcare": { "company": "Nemocnice Bory", "url": "https://daktela.com/cs/customer-stories-with-quotes/nemocnice-bory" },
-      "other": { "company": "Ticketportal", "url": "https://daktela.com/cs/customer-stories-with-quotes/ticketportal" }
+      "ecommerce": { "company": "Košík.cz", "url": "https://daktela.com/cs/customer-stories/kosik-cz" },
+      "logistics": { "company": "DPD Slovakia", "url": "https://daktela.com/cs/customer-stories/dpd-slovakia" },
+      "finance": { "company": "Generali Česká pojišťovna", "url": "https://daktela.com/cs/customer-stories/generali-ceska-pojistovna-" },
+      "manufacturing": { "company": "DEK", "url": "https://daktela.com/cs/customer-stories/dek" },
+      "travel": null,
+      "telecom": { "company": "CETIN", "url": "https://daktela.com/cs/customer-stories/cetin" },
+      "automotive": { "company": "Gafa Auto", "url": "https://daktela.com/cs/customer-stories/gafa-auto" },
+      "it": { "company": "Seznam.cz", "url": "https://daktela.com/cs/customer-stories/seznam-cz" },
+      "energy": null,
+      "healthcare": { "company": "Nemocnice Bory", "url": "https://daktela.com/cs/customer-stories/nemocnice-bory" },
+      "other": { "company": "Člověk v tísni", "url": "https://daktela.com/cs/customer-stories/people-in-need" }
     },
     "caseStudyText": { "prefix": "Podívejte se, jak", "suffix": "využívá Daktelu!" }
   },    
@@ -140,17 +144,17 @@
       }
     },
     "caseStudies": {
-      "ecommerce": null,
-      "logistics": null,
-      "finance": null,
-      "manufacturing": null,
+      "ecommerce": { "company": "Notino", "url": "https://daktela.com/pl/customer-stories/notino" },
+      "logistics": { "company": "Packeta", "url": "https://daktela.com/pl/customer-stories/packeta" },
+      "finance": { "company": "Finax", "url": "https://daktela.com/pl/customer-stories/finax" },
+      "manufacturing": { "company": "DEK", "url": "https://daktela.com/pl/customer-stories/dek" },
       "travel": null,
-      "telecom": null,
-      "automotive": null,
+      "telecom": { "company": "Orange", "url": "https://daktela.com/pl/customer-stories/orange" },
+      "automotive": { "company": "Gafa Auto", "url": "https://daktela.com/pl/customer-stories/gafa-auto" },
       "it": null,
       "energy": null,
-      "healthcare": null,
-      "other": null
+      "healthcare": { "company": "ROSSMANN", "url": "https://daktela.com/pl/customer-stories/rossmann" },
+      "other": { "company": "People in Need", "url": "https://daktela.com/pl/customer-stories/people-in-need" }
     },
     "caseStudyText": {
       "prefix": "Sprawdź, jak",
@@ -300,17 +304,17 @@
       }
     },
     "caseStudies": {
-      "ecommerce": null,
-      "logistics": null,
-      "finance": null,
+      "ecommerce": { "company": "Muziker", "url": "https://daktela.com/sr/customer-stories/muziker" },
+      "logistics": { "company": "Packeta", "url": "https://daktela.com/sr/customer-stories/packeta" },
+      "finance": { "company": "Finax", "url": "https://daktela.com/sr/customer-stories/finax" },
       "manufacturing": null,
-      "travel": null,
-      "telecom": null,
+      "travel": { "company": "Cosmo (Funtime)", "url": "https://daktela.com/sr/customer-stories/cosmo-funtime" },
+      "telecom": { "company": "Orange", "url": "https://daktela.com/sr/customer-stories/orange" },
       "automotive": null,
       "it": null,
       "energy": null,
-      "healthcare": null,
-      "other": null
+      "healthcare": { "company": "ROSSMANN", "url": "https://daktela.com/sr/customer-stories/rossmann" },
+      "other": { "company": "People in Need", "url": "https://daktela.com/sr/customer-stories/people-in-need" }
     },
     "caseStudyText": {
       "prefix": "Pogledajte kako",
@@ -460,17 +464,17 @@
       }
     },
     "caseStudies": {
-      "ecommerce": null,
-      "logistics": null,
-      "finance": null,
+      "ecommerce": { "company": "Bookzone", "url": "https://www.daktela.com/ro/customer-stories/bookzone" },
+      "logistics": { "company": "DPD Slovakia", "url": "https://www.daktela.com/ro/customer-stories/dpd-slovakia" },
+      "finance": { "company": "Generali Insurance", "url": "https://www.daktela.com/ro/customer-stories/generali-insurance" },
       "manufacturing": null,
-      "travel": null,
-      "telecom": null,
-      "automotive": null,
-      "it": null,
+      "travel": { "company": "Karpaten Turism", "url": "https://www.daktela.com/ro/customer-stories/karpaten-turism" },
+      "telecom": { "company": "Cetin", "url": "https://www.daktela.com/ro/customer-stories/cetin" },
+      "automotive": { "company": "Alcar", "url": "https://www.daktela.com/ro/customer-stories/alcar" },
+      "it": { "company": "GoIT", "url": "https://www.daktela.com/ro/customer-stories/goit" },
       "energy": null,
-      "healthcare": null,
-      "other": null
+      "healthcare": { "company": "ROSSMANN", "url": "https://www.daktela.com/ro/customer-stories/rossmann" },
+      "other": { "company": "People in Need", "url": "https://www.daktela.com/ro/customer-stories/people-in-need" }
     },
     "caseStudyText": {
       "prefix": "Vedeți cum",
@@ -620,17 +624,17 @@
       }
     },
     "caseStudies": {
-      "ecommerce": null,
-      "logistics": null,
-      "finance": null,
-      "manufacturing": null,
+      "ecommerce": { "company": "Notino", "url": "https://www.daktela.com/sk/customer-stories/notino" },
+      "logistics": { "company": "DPD Slovakia", "url": "https://www.daktela.com/sk/customer-stories/dpd-slovakia" },
+      "finance": { "company": "Finax", "url": "https://www.daktela.com/sk/customer-stories/finax" },
+      "manufacturing": { "company": "DEK", "url": "https://www.daktela.com/sk/customer-stories/dek" },
       "travel": null,
-      "telecom": null,
-      "automotive": null,
-      "it": null,
+      "telecom": { "company": "Orange Slovensko", "url": "https://www.daktela.com/sk/customer-stories/orange" },
+      "automotive": { "company": "Gafa Auto", "url": "https://www.daktela.com/sk/customer-stories/gafa-auto" },
+      "it": { "company": "PosAm", "url": "https://www.daktela.com/sk/customer-stories/posam" },
       "energy": null,
-      "healthcare": null,
-      "other": null
+      "healthcare": { "company": "Nemocnica Bory", "url": "https://www.daktela.com/sk/customer-stories/nemocnice-bory" },
+      "other": { "company": "Člověk v tísni", "url": "https://www.daktela.com/sk/customer-stories/people-in-need" }
     },
     "caseStudyText": {
       "prefix": "Pozrite sa, ako",
@@ -780,17 +784,17 @@
       }
     },
     "caseStudies": {
-      "ecommerce": null,
-      "logistics": null,
-      "finance": null,
+      "ecommerce": { "company": "Kifli.hu", "url": "https://daktela.com/hu/customer-stories/kifli-hu" },
+      "logistics": { "company": "DPD Slovakia", "url": "https://daktela.com/hu/customer-stories/dpd-slovakia" },
+      "finance": { "company": "Generali Insurance", "url": "https://daktela.com/hu/customer-stories/generali-insurance" },
       "manufacturing": null,
       "travel": null,
-      "telecom": null,
+      "telecom": { "company": "CETIN", "url": "https://daktela.com/hu/customer-stories/cetin" },
       "automotive": null,
       "it": null,
       "energy": null,
-      "healthcare": null,
-      "other": null
+      "healthcare": { "company": "ROSSMANN", "url": "https://daktela.com/hu/customer-stories/rossmann" },
+      "other": { "company": "People in Need", "url": "https://daktela.com/hu/customer-stories/people-in-need" }
     },
     "caseStudyText": {
       "prefix": "Nézze meg, hogyan",
