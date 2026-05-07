@@ -1,4 +1,33 @@
 {
+  "en": {
+    "caseStudies": {
+      "ecommerce": { "company": "Košík", "url": "https://daktela.com/customer-stories-with-quotes/kosik-cz" },
+      "logistics": { "company": "DPD", "url": "https://daktela.com/customer-stories-with-quotes/dpd-slovakia" },
+      "finance": null,
+      "manufacturing": null,
+      "travel": null,
+      "telecom": { "company": "Notino", "url": "https://daktela.com/customer-stories-with-quotes/notino" },
+      "automotive": { "company": "Gafa Auto", "url": "https://daktela.com/customer-stories-with-quotes/gafa-auto" },
+      "it": { "company": "Seznam", "url": "https://daktela.com/customer-stories-with-quotes/seznam-cz" },
+      "energy": null,
+      "healthcare": { "company": "Nemocnice Bory", "url": "https://daktela.com/customer-stories-with-quotes/nemocnice-bory" },
+      "other": { "company": "Ticketportal", "url": "https://daktela.com/customer-stories-with-quotes/ticketportal" }
+    },
+    "caseStudyText": { "prefix": "See how", "suffix": "uses Daktela!" }
+  },
+  "cs": {
+    "_NOTE_CS": "CS case studies jsou aktuálně inline ve webflow-footer.html. Můžeš je nechat tam, nebo přesunout sem (smart merge je správně skombinuje). Pokud necháš inline, tento blok pro 'cs' v souboru vynech.",
+    "caseStudies": {
+      "ecommerce": { "company": "Košík", "url": "https://daktela.com/cs/customer-stories-with-quotes/kosik-cz" },
+      "logistics": { "company": "DPD", "url": "https://daktela.com/cs/customer-stories-with-quotes/dpd-slovakia" },
+      "telecom": { "company": "Notino", "url": "https://daktela.com/cs/customer-stories-with-quotes/notino" },
+      "automotive": { "company": "Gafa Auto", "url": "https://daktela.com/cs/customer-stories-with-quotes/gafa-auto" },
+      "it": { "company": "Seznam", "url": "https://daktela.com/cs/customer-stories-with-quotes/seznam-cz" },
+      "healthcare": { "company": "Nemocnice Bory", "url": "https://daktela.com/cs/customer-stories-with-quotes/nemocnice-bory" },
+      "other": { "company": "Ticketportal", "url": "https://daktela.com/cs/customer-stories-with-quotes/ticketportal" }
+    },
+    "caseStudyText": { "prefix": "Podívejte se, jak", "suffix": "využívá Daktelu!" }
+  },    
   "pl": {
     "header": {
       "title": "Daktela ROI-culator",
